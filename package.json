@@ -1,0 +1,13 @@
+{
+  "name": "webmaker-locale-mapping",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "author": "The Mozilla Webmaker Team <ali@alicoding.com>",
+  "description": "Locale mapping for Webmaker apps",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alicoding/webmaker-locales-mapping-configuration.git"
+  },
+  "main": "./index.js"
+}
