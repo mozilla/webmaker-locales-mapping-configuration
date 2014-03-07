@@ -1,7 +1,7 @@
 {
   "name": "webmaker-locale-mapping",
   "version": "0.0.2",
-  "private": true,
+  "private": false,
   "license": "MIT",
   "author": "The Mozilla Webmaker Team <ali@alicoding.com>",
   "description": "Locale mapping for Webmaker apps",
