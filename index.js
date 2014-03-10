@@ -7,5 +7,6 @@ module.exports = {
   "fr-CA": "fr",
   "fr-FR": "fr",
   "pt-PT": "pt",
-  "ru-RU": "ru"
+  "ru-RU": "ru",
+  "th": "th-TH"
 };
