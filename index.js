@@ -1,5 +1,6 @@
 module.exports = {
   "bn": "bn-IN",
+  "bn-BND": "bn-BD",
   "en": "en-US",
   "en-GB": "en-US",
   "es-CO": "es",
